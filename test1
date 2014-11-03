@@ -1,0 +1,13 @@
+rails new demo
+create
+create README
+create Rakefile
+create configu.ru
+  : : : 
+create vendor/plugins
+create vendor/plugins/.gitkeep
+  run bundle install
+  Fetching source index for http://rubygems.org/
+    : : :
+Your bundle is complete!
+Use `bundle show [gemname]` to see where a bundled gem is installed.
